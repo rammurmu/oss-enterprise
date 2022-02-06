@@ -14,6 +14,9 @@ When interacting in a repository owned by the Octocorp organization, you are spe
 
 Employees are identified with an OWNER badge.
 
+@Rammurmu
+
+
 <img width="774" alt="owner-badge" src="https://user-images.githubusercontent.com/16547949/33770589-38f46312-dbfc-11e7-97a8-43118a086467.png">
 
 Community members with prior contributions will be identified with a CONTRIBUTOR badge, and those without prior contributions will not have a badge.
